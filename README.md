@@ -1,2 +1,2 @@
 # ro.aesm.qc.api
-QC framework application interfaces
+QC framework application interfaces.
